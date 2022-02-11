@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arkaan27
+- 🏆 Tensorflow Certfied Developer & ISTQB Certified Tester Foundation Level
 - 👀 I’m interested in Data Science, Automation,Machine Learning and Deep Learning
-- 🌱 I’m currently learning DevOps and Tensorflow
+- 🌱 I’m currently learning MLOps and AWS Solutions Architect Assosciate exam
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me arkaankanunga@gmail.com
 

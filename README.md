@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arkaan27
-- 🏆 Tensorflow Certfied Developer & ISTQB Certified Tester Foundation Level
+- 🏆 AWS Certified Solutions Architect, Tensorflow Certfied Developer, ISTQB Certified Tester Foundation Level
 - 👀 I’m interested in Data Science, Automation,Machine Learning and Deep Learning.
-- 🌱 I’m currently pursuing AWS Solutions Architect Associate Certification
+- 🌱 I’m currently pursuing AWS Certified Machine Learning - Specialty
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📑 My LinkedIn Profile: [Arkaan Quanunga](https://www.linkedin.com/in/arkaan-quanunga/)
 - 🔗 My Online Portfolio: [Portfolio | Arkaan Quanunga](https://arkaanquanunga.com)

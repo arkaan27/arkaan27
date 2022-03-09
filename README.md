@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @arkaan27
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arkaanquanunga-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/arkaan-quanunga/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arkaanquanunga-blue)](https://arkaanquanunga.com)
+
 - 🏆 AWS Certified Solutions Architect, Tensorflow Certfied Developer, ISTQB Certified Tester Foundation Level
 - 👀 I’m interested in Data Science, Automation,Machine Learning and Deep Learning.
 - 🌱 I’m currently pursuing AWS Certified Machine Learning - Specialty
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📑 My LinkedIn Profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-arkaanquanunga-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/arkaan-quanunga/)
-- 🔗 My Online Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-arkaanquanunga-blue)](https://arkaanquanunga.com)
 - 📫 How to reach me arkaankanunga@gmail.com
 
 <!---

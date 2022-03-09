@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arkaan27
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arkaanquanunga-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/arkaan-quanunga/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-arkaanquanunga-blue)](https://arkaanquanunga.com)
 
 - 🏆 AWS Certified Solutions Architect, Tensorflow Certfied Developer, ISTQB Certified Tester Foundation Level

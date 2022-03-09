@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @arkaan27
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markgaze-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/arkaan-quanunga/)
+
 - 🏆 AWS Certified Solutions Architect, Tensorflow Certfied Developer, ISTQB Certified Tester Foundation Level
 - 👀 I’m interested in Data Science, Automation,Machine Learning and Deep Learning.
 - 🌱 I’m currently pursuing AWS Certified Machine Learning - Specialty

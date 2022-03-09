@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing AWS Certified Machine Learning - Specialty
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📑 My LinkedIn Profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-arkaanquanunga-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/arkaan-quanunga/)
-- 🔗 My Online Portfolio: [Portfolio | Arkaan Quanunga](https://arkaanquanunga.com)
+- 🔗 My Online Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-arkaanquanunga-blue)](https://arkaanquanunga.com)
 - 📫 How to reach me arkaankanunga@gmail.com
 
 <!---
